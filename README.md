@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Mizanurmd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm Md. Mizanur Rahman, full-time BackEnd developer and part time Open Source contibutor 🚀
+🔭 Currently working on ERP Application and some pet projects :)
 
-<!---
-Mizanurmd/Mizanurmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in anything (mostly) if those fascinate me 👀
+
+🌱 I’m always learning new things that interest me :)
+
+❓ Any questions? ask me, I'll be happy to answer :)
+
+💞️ I’m looking forward to collaborate on those projects that matches my skill set ⚡
+
+📫 Want to reach me? Some related links are given bellow.
