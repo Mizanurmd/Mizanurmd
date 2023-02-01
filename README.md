@@ -1,5 +1,5 @@
-<h3 class="text-color:green;"> I'm Md. Mizanur Rahman, full-time BackEnd developer and part time Open Source contibutor</h3> 🚀
-🔭 Currently working on ERP Application and some pet projects :)
+<h3> I'm Md. Mizanur Rahman, full-time BackEnd developer and part time Open Source contibutor 🚀  </h3>
+<h4> 🔭 Currently working on ERP Application and some pet projects </h4>
 
 👀 I’m interested in anything (mostly) if those fascinate me 👀
 
