@@ -1,6 +1,6 @@
 ![Full Stack Java Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/323329472_1235175987082481_6577439965796280320_n.jpg?stp=dst-jpg_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=pzfH70fDYzMAX_Skndp&_nc_ht=scontent.fdac14-1.fna&oh=00_AfCgoFHt6AvAICBZG1oNzb0J28O6D3CMOVbNK6lBVbqK5g&oe=63DF1CB6)
 
-### Hi there 👋, I'ma Mizanur Rahman
+### Hi there 👋, I'm Mizanur Rahman
 #### Full Stack Java Developer
 
 
