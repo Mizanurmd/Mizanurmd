@@ -8,7 +8,7 @@ I have a Diploma degree in Software Development and I have a very creative mind 
 
 Skills: Skills: My experience as a JAVA Developer includes working with ERP(Enterprise Resources Planning) & back-end spring boot (Rest-Api) and front-Angular database postgreSql , MySQL, Jasper Report by integrating them with projects. I can work on more than one project at once and I can deal with the most important project first and work the rest later to make sure all deadlines are met. I do have lots of experience working with Java, spring boot, MVC, JSP, Oracle 11g, MySQL, postgreSql, and some experience dealing with JavaScrip ,Html, Bootstrap, Angular etc.
 
-- 🔭 I’m currently working on this page.CLIP'N TOUCH(GETCO BUSINESS SOLUTION LTD) 
+- 🔭 I’m currently working in Computer Network System(CNS)
 - 🌱 I’m currently learning JavaScript, Java 
 - 👯 I’m looking to collaborate on I’m looking forward to collaborate on those projects that matches my skill set 
 - 💬 Ask me about Any questions? ask me, I'll be happy to answer 
