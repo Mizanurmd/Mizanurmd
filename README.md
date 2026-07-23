@@ -4,12 +4,12 @@
 #### Full Stack Java Developer
 
 
-I have a Diploma degree in Software Development and I have a very creative mind that allows me to address and solve technical problems. Now I am a java developer. As a java developer, I have the drive, energy, and perfect knowledge of programming language . I have learned all I can about full stack developer and I am excited at the idea of becoming part of a developing team where I can learn even more.
+I have a Diploma degree in Software Development and I have a very creative mind that allows me to address and solve technical problems. Now I am a Full Stack Java Developer. As a Full Stack Java Developer, I have the drive, energy, and perfect knowledge of programming language on Java, Spring boot, Angular, Oracle, PostgreSql. I try to learn everythng  to be a perfect Full Stack Developer and I am excited at the idea of becoming part of a developing team where I can learn even more.
 
-Skills: Skills: My experience as a JAVA Developer includes working with ERP(Enterprise Resources Planning) & back-end spring boot (Rest-Api) and front-Angular database postgreSql , MySQL, Jasper Report by integrating them with projects. I can work on more than one project at once and I can deal with the most important project first and work the rest later to make sure all deadlines are met. I do have lots of experience working with Java, spring boot, MVC, JSP, Oracle 11g, MySQL, postgreSql, and some experience dealing with JavaScrip ,Html, Bootstrap, Angular etc.
+Skills: Skills: My experience as a Full Stack Java Developer includes working with ERP(Enterprise Resources Planning) & back-end spring boot (Rest-Api) and front-Angular database postgreSql , MySQL, Jasper Report by integrating them with projects. I can work on more than one project at once and I can deal with the most important project first and work the rest later to make sure all deadlines are met. I do have lots of experience working with Java, spring boot, MVC, JSP, Oracle 11g, MySQL, postgreSql, and some experience dealing with JavaScrip ,Html, Bootstrap, Angular etc.
 
-- 🔭 I’m currently working in Computer Network System(CNS)
-- 🌱 I’m currently learning JavaScript, Java 
+- 🔭 I’m currently Addie Soft Ltd(Dhanmondi 27 Shaptak tower)
+- 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on I’m looking forward to collaborate on those projects that matches my skill set 
 - 💬 Ask me about Any questions? ask me, I'll be happy to answer 
 - 📫 How to reach me: Some related links are given bellow. 
@@ -22,5 +22,5 @@ Skills: Skills: My experience as a JAVA Developer includes working with ERP(Ente
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/Mizanurmd)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Mizanurmd)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Mizanurmd/)  
 
