@@ -16,11 +16,53 @@ Skills: Skills: My experience as a Full Stack Java Developer includes working wi
 - ⚡ Fun fact:  I’m always learning new things that interest me 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mizanurmd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-mizanur-rahman-b616001a9//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mdmizanurrahman1991)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://mylooking.liveblog365.com/)  
+## 🌐 Connect With Me
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<p align="left">
+  <a href="https://github.com/Mizanurmd" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-mizanur-rahman-b616001a9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/mdmizanurrahman1991" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="http://mylooking.liveblog365.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Mizanurmd)  
+### 🏆 GitHub Achievements
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Mizanurmd/)  
+<p align="left">
+  <a href="https://github.com/acervenky/animated-github-badges">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="45" height="45" alt="GitHub Archive Badge"/>
+  </a>
+  <a href="https://docs.github.com/en/developers">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="45" height="45" alt="Developer Badge"/>
+  </a>
+  <a href="https://github.com/pricing">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="45" height="45" alt="Pro Badge"/>
+  </a>
+  <a href="https://stars.github.com/">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="40" height="40" alt="Star Badge"/>
+  </a>
+  <a href="https://docs.github.com/en/sponsors">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="40" height="40" alt="Sponsor Badge"/>
+  </a>
+</p>
+
+### 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Mizanurmd" alt="GitHub Metrics" />
+</p>
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Mizanurmd&theme=dark" alt="GitHub Streak Stats" />
+</p>
+
 
