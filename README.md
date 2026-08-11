@@ -1,19 +1,33 @@
-![Full Stack Java Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/323329472_1235175987082481_6577439965796280320_n.jpg?stp=dst-jpg_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=pzfH70fDYzMAX_Skndp&_nc_ht=scontent.fdac14-1.fna&oh=00_AfCgoFHt6AvAICBZG1oNzb0J28O6D3CMOVbNK6lBVbqK5g&oe=63DF1CB6)
+Hi there 👋, I'm Mizanur Rahman
+🚀 Full Stack Java Developer
 
-### Hi there 👋, I'm Mizanur Rahman
-#### Full Stack Java Developer
+I am a Full Stack Java Developer with a Diploma in Software Development and professional experience building enterprise applications using Java, Spring Boot, Angular, Oracle, and PostgreSQL.
 
+I specialize in developing REST APIs, backend services, database-driven applications, and responsive frontend applications. I have experience working with ERP (Enterprise Resource Planning) systems, integrating frontend and backend components, and generating reports using JasperReports.
 
-I have a Diploma degree in Software Development and I have a very creative mind that allows me to address and solve technical problems. Now I am a Full Stack Java Developer. As a Full Stack Java Developer, I have the drive, energy, and perfect knowledge of programming language on Java, Spring boot, Angular, Oracle, PostgreSql. I try to learn everythng  to be a perfect Full Stack Developer and I am excited at the idea of becoming part of a developing team where I can learn even more.
+I enjoy solving technical problems, learning new technologies, and continuously improving my development skills. I am particularly interested in building scalable, maintainable, and enterprise-level applications.
 
-Skills: Skills: My experience as a Full Stack Java Developer includes working with ERP(Enterprise Resources Planning) & back-end spring boot (Rest-Api) and front-Angular database postgreSql , MySQL, Jasper Report by integrating them with projects. I can work on more than one project at once and I can deal with the most important project first and work the rest later to make sure all deadlines are met. I do have lots of experience working with Java, spring boot, MVC, JSP, Oracle 11g, MySQL, postgreSql, and some experience dealing with JavaScrip ,Html, Bootstrap, Angular etc.
-
-- 🔭 I’m currently Addie Soft Ltd(Dhanmondi 27 Shaptak tower)
-- 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate on I’m looking forward to collaborate on those projects that matches my skill set 
-- 💬 Ask me about Any questions? ask me, I'll be happy to answer 
-- 📫 How to reach me: Some related links are given bellow. 
-- ⚡ Fun fact:  I’m always learning new things that interest me 
+🛠️ Technical Skills
+Backend: Java, Spring Boot, REST API, MVC, JSP
+Frontend: Angular, JavaScript, HTML, CSS, Bootstrap
+Database: Oracle, PostgreSQL, MySQL
+Reporting: JasperReports
+Tools & Technologies: Git, GitHub, Maven
+Currently Learning: DevOps, Docker, Jenkins, CI/CD
+💼 Professional Experience
+🔭 Currently working at Addie Soft Ltd. as a Software Engineer
+🚢 Working on enterprise applications related to the Maritime Single Window (MSW) project
+🌱 Currently learning and exploring DevOps, Docker, Jenkins, and CI/CD
+👯 Open to collaborating on projects related to Java, Spring Boot, Angular, and enterprise software development
+💬 Feel free to ask me about Java, Spring Boot, REST APIs, Angular, Oracle, PostgreSQL, and backend development
+📫 You can reach me through the social links below
+⚡ Fun fact: I enjoy learning new technologies and turning challenging problems into practical solutions.
+🎯 Current Goals
+Deepen my knowledge of Java & Spring Boot
+Build expertise in Microservices Architecture
+Learn Docker, Jenkins, CI/CD, and Cloud technologies
+Improve my knowledge of System Design and Enterprise Application Development
+Become a stronger Full Stack & DevOps-oriented developer
 
 
 ## 🌐 Connect With Me
@@ -53,11 +67,17 @@ Skills: Skills: My experience as a Full Stack Java Developer includes working wi
   </a>
 </p>
 
-### 📊 GitHub Metrics
+### 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Mizanurmd" alt="GitHub Metrics" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mizanurmd&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+### 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mizanurmd&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
 
 ### 🔥 GitHub Streak
 
