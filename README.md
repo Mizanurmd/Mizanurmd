@@ -72,17 +72,12 @@ Become a stronger Full Stack & DevOps-oriented developer
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mizanurmd&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-### 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mizanurmd&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
+### 📊GitHub Metrics
 
+<p align="center"> <img src="https://metrics.lecoq.io/Mizanurmd" alt="GitHub Metrics" /> </p>
 
-### 🔥 GitHub Streak
+🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mizanurmd&theme=dark" alt="GitHub Streak Stats" />
-</p>
-
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=Mizanurmd&theme=dark" alt="GitHub Streak Stats" /> </p>
 
